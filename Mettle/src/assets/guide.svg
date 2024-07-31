@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Online-Assessment-Tools">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Online-Assessment-Tools" clip-path="url(#clip-Online-Assessment-Tools)">
+    <g id="Group_957" data-name="Group 957" transform="translate(-2 -3)">
+      <path id="Path_5803" data-name="Path 5803" d="M5,20.286V6.714A.714.714,0,0,1,5.714,6H20a.714.714,0,0,1,.714.714V20.286H5" transform="translate(-0.857 0)" fill="#009de0"/>
+      <rect id="Rectangle_623" data-name="Rectangle 623" width="14.827" height="10.783" transform="translate(4.586 6.807)" fill="#fff"/>
+      <path id="Path_5804" data-name="Path 5804" d="M4.143,24H2v1.429H4.143V24M22,24H19.857v1.429H22V24" transform="translate(0 -5.143)" fill="#00ac41"/>
+      <path id="Path_5805" data-name="Path 5805" d="M20.714,24H5v1.429H20.714V24" transform="translate(-0.857 -5.143)" fill="#006a39"/>
+    </g>
+  </g>
+</svg>
